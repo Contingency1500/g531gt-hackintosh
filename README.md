@@ -6,4 +6,4 @@ some stuff that doesn't work are trackpad, imessage, icloud, etc
 
 install com.apple.recovery.boot folder which is here https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer
 
-i mean u can use my config.plist or just make your own with my kexts
+i mean u can use my config.plist or just make your own with my kexts and it should work, or my config.plist might work try it
