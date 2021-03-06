@@ -6,6 +6,8 @@ it should support high sierra, mojave, catalina and big sur (big sur is the only
 
 some stuff works like wifi, audio and stuff like that
 
+applealc audio layout was 21 for me, not sure if it would be different for you
+
 some stuff that doesn't work are trackpad, imessage, icloud, etc
 
 install com.apple.recovery.boot folder which is here https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer
