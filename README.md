@@ -1,2 +1,4 @@
 # g531gt-hackintosh
-hackintosh for the g531gt
+
+some stuff works like wifi, audio and stuff like that
+some stuff that doesn't work are trackpad
