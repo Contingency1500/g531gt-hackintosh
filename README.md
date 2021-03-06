@@ -2,7 +2,7 @@
 
 credit to dortania for making opencore! https://dortania.github.io/OpenCore-Install-Guide/ or https://github.com/dortania
 
-it should support high sierra, mojave, catalina and big sur (big sur is the only one i tested)
+it should support high sierra, mojave, catalina and big sur (big sur is the only one i tested) and i ran opencore 0.6.7
 
 some stuff works like wifi, audio and stuff like that
 
